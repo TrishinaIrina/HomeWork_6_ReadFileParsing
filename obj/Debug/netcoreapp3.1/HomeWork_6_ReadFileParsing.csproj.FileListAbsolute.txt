@@ -1,0 +1,13 @@
+C:\Users\irish\My documents\C#\HomeWork_6_ReadFileParsing\bin\Debug\netcoreapp3.1\HomeWork_6_ReadFileParsing.exe
+C:\Users\irish\My documents\C#\HomeWork_6_ReadFileParsing\bin\Debug\netcoreapp3.1\HomeWork_6_ReadFileParsing.deps.json
+C:\Users\irish\My documents\C#\HomeWork_6_ReadFileParsing\bin\Debug\netcoreapp3.1\HomeWork_6_ReadFileParsing.runtimeconfig.json
+C:\Users\irish\My documents\C#\HomeWork_6_ReadFileParsing\bin\Debug\netcoreapp3.1\HomeWork_6_ReadFileParsing.runtimeconfig.dev.json
+C:\Users\irish\My documents\C#\HomeWork_6_ReadFileParsing\bin\Debug\netcoreapp3.1\HomeWork_6_ReadFileParsing.dll
+C:\Users\irish\My documents\C#\HomeWork_6_ReadFileParsing\bin\Debug\netcoreapp3.1\HomeWork_6_ReadFileParsing.pdb
+C:\Users\irish\My documents\C#\HomeWork_6_ReadFileParsing\obj\Debug\netcoreapp3.1\HomeWork_6_ReadFileParsing.AssemblyInfoInputs.cache
+C:\Users\irish\My documents\C#\HomeWork_6_ReadFileParsing\obj\Debug\netcoreapp3.1\HomeWork_6_ReadFileParsing.AssemblyInfo.cs
+C:\Users\irish\My documents\C#\HomeWork_6_ReadFileParsing\obj\Debug\netcoreapp3.1\HomeWork_6_ReadFileParsing.csproj.CoreCompileInputs.cache
+C:\Users\irish\My documents\C#\HomeWork_6_ReadFileParsing\obj\Debug\netcoreapp3.1\HomeWork_6_ReadFileParsing.dll
+C:\Users\irish\My documents\C#\HomeWork_6_ReadFileParsing\obj\Debug\netcoreapp3.1\HomeWork_6_ReadFileParsing.pdb
+C:\Users\irish\My documents\C#\HomeWork_6_ReadFileParsing\obj\Debug\netcoreapp3.1\HomeWork_6_ReadFileParsing.genruntimeconfig.cache
+C:\Users\irish\My documents\C#\HomeWork_6_ReadFileParsing\obj\Debug\netcoreapp3.1\HomeWork_6_ReadFileParsing.csprojAssemblyReference.cache
